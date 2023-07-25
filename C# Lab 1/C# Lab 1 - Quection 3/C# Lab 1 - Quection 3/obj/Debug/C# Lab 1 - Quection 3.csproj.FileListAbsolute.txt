@@ -1,0 +1,8 @@
+C:\Users\Samaji\source\repos\C# Lab 1 - Quection 3\C# Lab 1 - Quection 3\bin\Debug\C# Lab 1 - Quection 3.exe.config
+C:\Users\Samaji\source\repos\C# Lab 1 - Quection 3\C# Lab 1 - Quection 3\bin\Debug\C# Lab 1 - Quection 3.exe
+C:\Users\Samaji\source\repos\C# Lab 1 - Quection 3\C# Lab 1 - Quection 3\bin\Debug\C# Lab 1 - Quection 3.pdb
+C:\Users\Samaji\source\repos\C# Lab 1 - Quection 3\C# Lab 1 - Quection 3\obj\Debug\C# Lab 1 - Quection 3.csproj.AssemblyReference.cache
+C:\Users\Samaji\source\repos\C# Lab 1 - Quection 3\C# Lab 1 - Quection 3\obj\Debug\C# Lab 1 - Quection 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Samaji\source\repos\C# Lab 1 - Quection 3\C# Lab 1 - Quection 3\obj\Debug\C# Lab 1 - Quection 3.csproj.CoreCompileInputs.cache
+C:\Users\Samaji\source\repos\C# Lab 1 - Quection 3\C# Lab 1 - Quection 3\obj\Debug\C# Lab 1 - Quection 3.exe
+C:\Users\Samaji\source\repos\C# Lab 1 - Quection 3\C# Lab 1 - Quection 3\obj\Debug\C# Lab 1 - Quection 3.pdb
