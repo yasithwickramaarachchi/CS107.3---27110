@@ -1,0 +1,8 @@
+C:\Users\Samaji\source\repos\C# Lab 2 - Quection 5\C# Lab 2 - Quection 5\bin\Debug\C# Lab 2 - Quection 5.exe.config
+C:\Users\Samaji\source\repos\C# Lab 2 - Quection 5\C# Lab 2 - Quection 5\bin\Debug\C# Lab 2 - Quection 5.exe
+C:\Users\Samaji\source\repos\C# Lab 2 - Quection 5\C# Lab 2 - Quection 5\bin\Debug\C# Lab 2 - Quection 5.pdb
+C:\Users\Samaji\source\repos\C# Lab 2 - Quection 5\C# Lab 2 - Quection 5\obj\Debug\C# Lab 2 - Quection 5.csproj.AssemblyReference.cache
+C:\Users\Samaji\source\repos\C# Lab 2 - Quection 5\C# Lab 2 - Quection 5\obj\Debug\C# Lab 2 - Quection 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Samaji\source\repos\C# Lab 2 - Quection 5\C# Lab 2 - Quection 5\obj\Debug\C# Lab 2 - Quection 5.csproj.CoreCompileInputs.cache
+C:\Users\Samaji\source\repos\C# Lab 2 - Quection 5\C# Lab 2 - Quection 5\obj\Debug\C# Lab 2 - Quection 5.exe
+C:\Users\Samaji\source\repos\C# Lab 2 - Quection 5\C# Lab 2 - Quection 5\obj\Debug\C# Lab 2 - Quection 5.pdb
