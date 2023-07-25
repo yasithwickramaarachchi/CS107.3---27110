@@ -1,0 +1,3 @@
+C:\Users\Samaji\source\repos\C# Lab 3 - Quection 4 - QU - 1.1\C# Lab 3 - Quection 4 - QU - 1.1\obj\Debug\C# Lab 3 - Quection 4 - QU - 1.1.csproj.AssemblyReference.cache
+C:\Users\Samaji\source\repos\C# Lab 3 - Quection 4 - QU - 1.1\C# Lab 3 - Quection 4 - QU - 1.1\obj\Debug\C# Lab 3 - Quection 4 - QU - 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Samaji\source\repos\C# Lab 3 - Quection 4 - QU - 1.1\C# Lab 3 - Quection 4 - QU - 1.1\obj\Debug\C# Lab 3 - Quection 4 - QU - 1.1.csproj.CoreCompileInputs.cache
