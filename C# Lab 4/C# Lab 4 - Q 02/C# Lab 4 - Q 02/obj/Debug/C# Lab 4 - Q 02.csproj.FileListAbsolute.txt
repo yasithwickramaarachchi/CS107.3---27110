@@ -1,0 +1,8 @@
+C:\Users\Samaji\source\repos\C# Lab 4 - Q 02\C# Lab 4 - Q 02\bin\Debug\C# Lab 4 - Q 02.exe.config
+C:\Users\Samaji\source\repos\C# Lab 4 - Q 02\C# Lab 4 - Q 02\bin\Debug\C# Lab 4 - Q 02.exe
+C:\Users\Samaji\source\repos\C# Lab 4 - Q 02\C# Lab 4 - Q 02\bin\Debug\C# Lab 4 - Q 02.pdb
+C:\Users\Samaji\source\repos\C# Lab 4 - Q 02\C# Lab 4 - Q 02\obj\Debug\C# Lab 4 - Q 02.csproj.AssemblyReference.cache
+C:\Users\Samaji\source\repos\C# Lab 4 - Q 02\C# Lab 4 - Q 02\obj\Debug\C# Lab 4 - Q 02.csproj.SuggestedBindingRedirects.cache
+C:\Users\Samaji\source\repos\C# Lab 4 - Q 02\C# Lab 4 - Q 02\obj\Debug\C# Lab 4 - Q 02.csproj.CoreCompileInputs.cache
+C:\Users\Samaji\source\repos\C# Lab 4 - Q 02\C# Lab 4 - Q 02\obj\Debug\C# Lab 4 - Q 02.exe
+C:\Users\Samaji\source\repos\C# Lab 4 - Q 02\C# Lab 4 - Q 02\obj\Debug\C# Lab 4 - Q 02.pdb
